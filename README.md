@@ -10,5 +10,5 @@
         - Node.js
         - Express
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me [Rony Ahmed](mailto:moshiourrahmanrony@gmail.com?subject=[Web%20Project]%20Make%20Me%20A%20Website)
-        - Discord userName : Light Yagami#6162
+- 📫 How to reach me [Rony Ahmed](mailto:moshiourrahmanrony@gmail.com?subject=[Web%20Project]%20Make%20Me%20A%20Website)   
+        - Discord : Light Yagami#6162
